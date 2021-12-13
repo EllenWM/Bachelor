@@ -1,2 +1,2 @@
 # Bachelor
-Code to bachelor project on predide
+Code to bachelor project on predictability of mobility trajectories enriched with semantics
